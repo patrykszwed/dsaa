@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520340577 source:c:\users\patry\documents\dsaa\labs\2b\main.cpp
+	<iostream>
+	<string.h>
+	<string>
+	<sstream>
+

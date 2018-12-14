@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519130977 source:c:\users\patry\documents\dsaa\labs\1\func.cpp
+	"func.h"
+
+1519130374 c:\users\patry\documents\dsaa\labs\1\func.h
+	<iostream>
+
+1519134688 source:c:\users\patry\documents\dsaa\labs\1\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+	<sstream>
+
